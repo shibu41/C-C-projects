@@ -15,9 +15,7 @@ This game requires C/C++ compiler to be installed on your PC. So, before playing
 Windows user please make sure you have installed C/C++ IDE.
 
 - First download this folder as a zip file.
-- Extract this on your PC using appropriate extractor.
--- For Windows users, use this link to download [7zip](https://www.7-zip.org/download.html) extractor.
--- For linux users, open command prompt and use this code:
+- Extract this on your PC using appropriate extractor. For Windows users, use this link to download [7zip](https://www.7-zip.org/download.html) extractor. For linux users, open command prompt and use this code:
 
 ```sh
 unzip {name_of_zipfile} -d ./HandCricket
